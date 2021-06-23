@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d03b0719f51fb5db85299a1ac002f5b",
+    "revision": "21ee627aa62ae2b6db7aed722d87deac",
     "url": "/jametrades/index.html"
   },
   {
-    "revision": "4ae3f2d8ba780b272b9e",
+    "revision": "b957389ec1ba58315793",
     "url": "/jametrades/static/css/main.2c62ca77.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jametrades/static/js/2.9e4cf306.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4ae3f2d8ba780b272b9e",
-    "url": "/jametrades/static/js/main.15b13924.chunk.js"
+    "revision": "b957389ec1ba58315793",
+    "url": "/jametrades/static/js/main.278ba5e2.chunk.js"
   },
   {
     "revision": "6c7c68c0499460ac6f1b",

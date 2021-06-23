@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jametrades/static/css/main.2c62ca77.chunk.css",
-    "main.js": "/jametrades/static/js/main.15b13924.chunk.js",
-    "main.js.map": "/jametrades/static/js/main.15b13924.chunk.js.map",
+    "main.js": "/jametrades/static/js/main.278ba5e2.chunk.js",
+    "main.js.map": "/jametrades/static/js/main.278ba5e2.chunk.js.map",
     "runtime-main.js": "/jametrades/static/js/runtime-main.81893d0a.js",
     "runtime-main.js.map": "/jametrades/static/js/runtime-main.81893d0a.js.map",
     "static/js/2.9e4cf306.chunk.js": "/jametrades/static/js/2.9e4cf306.chunk.js",
     "static/js/2.9e4cf306.chunk.js.map": "/jametrades/static/js/2.9e4cf306.chunk.js.map",
     "index.html": "/jametrades/index.html",
-    "precache-manifest.f5b018f7a0a58619229a26a253a403b9.js": "/jametrades/precache-manifest.f5b018f7a0a58619229a26a253a403b9.js",
+    "precache-manifest.985ddcc934b25b72a5a8cb940150d007.js": "/jametrades/precache-manifest.985ddcc934b25b72a5a8cb940150d007.js",
     "service-worker.js": "/jametrades/service-worker.js",
     "static/css/main.2c62ca77.chunk.css.map": "/jametrades/static/css/main.2c62ca77.chunk.css.map",
     "static/js/2.9e4cf306.chunk.js.LICENSE.txt": "/jametrades/static/js/2.9e4cf306.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.81893d0a.js",
     "static/js/2.9e4cf306.chunk.js",
     "static/css/main.2c62ca77.chunk.css",
-    "static/js/main.15b13924.chunk.js"
+    "static/js/main.278ba5e2.chunk.js"
   ]
 }
