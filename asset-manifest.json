@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/jametrades/static/css/main.2c62ca77.chunk.css",
-    "main.js": "/jametrades/static/js/main.15b13924.chunk.js",
-    "main.js.map": "/jametrades/static/js/main.15b13924.chunk.js.map",
-    "runtime-main.js": "/jametrades/static/js/runtime-main.81893d0a.js",
-    "runtime-main.js.map": "/jametrades/static/js/runtime-main.81893d0a.js.map",
-    "static/js/2.9e4cf306.chunk.js": "/jametrades/static/js/2.9e4cf306.chunk.js",
-    "static/js/2.9e4cf306.chunk.js.map": "/jametrades/static/js/2.9e4cf306.chunk.js.map",
-    "index.html": "/jametrades/index.html",
-    "precache-manifest.f5b018f7a0a58619229a26a253a403b9.js": "/jametrades/precache-manifest.f5b018f7a0a58619229a26a253a403b9.js",
-    "service-worker.js": "/jametrades/service-worker.js",
-    "static/css/main.2c62ca77.chunk.css.map": "/jametrades/static/css/main.2c62ca77.chunk.css.map",
-    "static/js/2.9e4cf306.chunk.js.LICENSE.txt": "/jametrades/static/js/2.9e4cf306.chunk.js.LICENSE.txt",
-    "static/media/fonts.css": "/jametrades/static/media/IBMPlexSans-Regular.c02b4dc6.ttf",
-    "static/media/facebook.50f13391.svg": "/jametrades/static/media/facebook.50f13391.svg",
-    "static/media/github.baf48a32.svg": "/jametrades/static/media/github.baf48a32.svg",
-    "static/media/twitter.a50716dd.svg": "/jametrades/static/media/twitter.a50716dd.svg"
+    "main.css": "/static/css/main.a68cae44.chunk.css",
+    "main.js": "/static/js/main.2a15e3fe.chunk.js",
+    "main.js.map": "/static/js/main.2a15e3fe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c3455ad6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c3455ad6.js.map",
+    "static/js/2.9e4cf306.chunk.js": "/static/js/2.9e4cf306.chunk.js",
+    "static/js/2.9e4cf306.chunk.js.map": "/static/js/2.9e4cf306.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.297844471a37fa3ea204c8515de10657.js": "/precache-manifest.297844471a37fa3ea204c8515de10657.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a68cae44.chunk.css.map": "/static/css/main.a68cae44.chunk.css.map",
+    "static/js/2.9e4cf306.chunk.js.LICENSE.txt": "/static/js/2.9e4cf306.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/static/media/IBMPlexSans-Regular.c02b4dc6.ttf",
+    "static/media/facebook.50f13391.svg": "/static/media/facebook.50f13391.svg",
+    "static/media/github.baf48a32.svg": "/static/media/github.baf48a32.svg",
+    "static/media/twitter.a50716dd.svg": "/static/media/twitter.a50716dd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.81893d0a.js",
+    "static/js/runtime-main.c3455ad6.js",
     "static/js/2.9e4cf306.chunk.js",
-    "static/css/main.2c62ca77.chunk.css",
-    "static/js/main.15b13924.chunk.js"
+    "static/css/main.a68cae44.chunk.css",
+    "static/js/main.2a15e3fe.chunk.js"
   ]
 }
