@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "21ee627aa62ae2b6db7aed722d87deac",
+    "revision": "56f3ae88c73332a2f4f80cd430e3ab41",
     "url": "/jametrades/index.html"
   },
   {
-    "revision": "b957389ec1ba58315793",
+    "revision": "7a20f3e9bb20de5304d0",
     "url": "/jametrades/static/css/main.2c62ca77.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jametrades/static/js/2.9e4cf306.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b957389ec1ba58315793",
-    "url": "/jametrades/static/js/main.278ba5e2.chunk.js"
+    "revision": "7a20f3e9bb20de5304d0",
+    "url": "/jametrades/static/js/main.631f198e.chunk.js"
   },
   {
     "revision": "6c7c68c0499460ac6f1b",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c02b4dc6554c116e4c40f254889d5871",
     "url": "/jametrades/static/media/IBMPlexSans-Regular.c02b4dc6.ttf"
+  },
+  {
+    "revision": "364fc8a0ee7fcebf47ca6ebd16ec12f1",
+    "url": "/jametrades/static/media/discord.364fc8a0.svg"
   },
   {
     "revision": "50f13391babe5b650b8a0589dd962f74",
