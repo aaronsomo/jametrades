@@ -2,6 +2,7 @@ import React from 'react';
 import { ReactComponent as IconFacebook } from './assets/icons/facebook.svg';
 import { ReactComponent as IconTwitter } from './assets/icons/twitter.svg';
 import { ReactComponent as IconGithub } from './assets/icons/github.svg';
+import { ReactComponent as IconDiscord } from './assets/icons/discord.svg';
 import "./App.css";
 
 class App extends React.Component {
@@ -13,6 +14,9 @@ class App extends React.Component {
             <a href=".">JAMETRADE$ LOGO</a>
           </div>
           <div className="social">
+            <a href="https://discord.com" title="Discord" target="_blank" rel="noopener noreferrer">
+              <IconDiscord className="icon" />
+            </a>
             <a href="https://facebook.com" title="Facebook" target="_blank" rel="noopener noreferrer">
               <IconFacebook className="icon" />
             </a>
